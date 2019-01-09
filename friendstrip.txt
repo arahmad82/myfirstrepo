@@ -2,6 +2,7 @@ Packing List
 ------------
 Jacket
 Charger
+Shoes
 
 Cities
 ----------
